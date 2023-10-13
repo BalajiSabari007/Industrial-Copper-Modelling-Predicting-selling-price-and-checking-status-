@@ -27,8 +27,12 @@ Another area where the copper industry faces challenges is in capturing the lead
 #Required Libraries:
 
 •Pandas
+
 •Numpy
+
 •Scikit-Learn
+
 •Matplotlib
+
 •Streamlit Documentation
 
