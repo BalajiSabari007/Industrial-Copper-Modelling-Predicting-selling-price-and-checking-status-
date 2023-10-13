@@ -15,8 +15,20 @@ Another area where the copper industry faces challenges is in capturing the lead
 #Solution:
 
 •Exploring skewness and outliers in the dataset.
+
 •Transform the data into a suitable format and perform any necessary cleaning and pre-processing steps.
+
 •ML Regression model which predicts continuous variable ‘Selling_Price’.
+
 •ML Classification model which predicts Status: WON or LOST.
+
 •Creating a streamlit page where you can insert each column value and you will get the Selling_Price predicted value or Status(Won/Lost)
+
+#Required Libraries:
+
+•Pandas
+•Numpy
+•Scikit-Learn
+•Matplotlib
+•Streamlit Documentation
 
